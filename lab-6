@@ -1,1 +1,10 @@
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+struct profile{
+char name[8];
+int age;
+}student[8];
 
+printf
