@@ -20,4 +20,8 @@ for(i=0;i<10;i++)
 
 for(i=0;i<10;i++)
 {
-  if 
+  if(student[i].age>20)
+    printf("\n%s%d",student[i].name,student[i].age);
+}
+return 0;
+}
