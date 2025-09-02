@@ -13,4 +13,11 @@ for(i=0;i<10;i++)
 {
   printf("Student[%d]\n",i);
   printf("\t Name:");
-  scanf(
+  scanf(student[i].name);
+  printf("\t Age:");
+  scanf(student[i].age);
+};
+
+for(i=0;i<10;i++)
+{
+  if 
